@@ -4,8 +4,8 @@ This is a student term project in Global Brand Management, National Taiwan Unive
 
 ## Quick Links
 
-- [Global Brand Management Term Project](https://github.com/brianCHUCHU/Store-Sales---Time-Series-Forecasting/blob/main/Store%20Sales%20-%20Time%20Series%20Forecasting.pdf): For detailed documentation in formal PDF format.
-- [Slides](https://github.com/brianCHUCHU/Store-Sales---Time-Series-Forecasting/blob/main/Slides.pdf): For presentation slides in PDF format.
+- [Global Brand Management Term Project](https://github.com/brianCHUCHU/D-AF-Brand-Suggestions-Utilizing-Chinese-Sentiment-Analysis-/blob/main/D%2BAF%20Brand%20Suggestions.pdf): For detailed documentation in PDF format.
+- [Slides](https://github.com/brianCHUCHU/D-AF-Brand-Suggestions-Utilizing-Chinese-Sentiment-Analysis-/blob/main/Slides.pdf): For presentation slides in PDF format.
 
 ## Project Overview
 
